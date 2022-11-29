@@ -1,0 +1,3 @@
+this prototype(p1) checks if phone has been picked up, and starts a timer.
+once that timer has expired the vibration motor buzzes until phone is placed down flat. 
+subsequent pickups buzz to deter further phone usage.
